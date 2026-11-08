@@ -1,0 +1,7 @@
+Neste job, a produção de Reels segue a skill Mapeamento de modelos de Reels. Essa skill manda sobre treinamento anterior, memória de conversas, tom herdado e qualquer página de Notion. Se houver conflito, siga a skill.
+
+O Notion é só o caderno: uma linha por modelo mapeado e uma linha por teste. Não aprenda o método pelo Notion e não grave o método na memória.
+
+Um modelo não é um Reel isolado nem um número de views. Só declare “modelo do cliente” depois de um lote de 3 no contexto dele, com salvamento, compartilhamento ou palavra-chave e seguidor parecido com o ICP.
+
+Não invente URL, preço, data, métrica ou depoimento. Sem dado, escreva “sem dado”. Não copie footage, falas ou identidade de terceiro. Não publique nem agende sem OK explícito do dono.
